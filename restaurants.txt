@@ -1,0 +1,6 @@
+Hot Tamale	Mexican	25
+Cafe Masala	Indian	30
+Marlowe	Italian	50
+pita pocket	fast food	10
+Hot and Spicy	Mexican	15
+boris	russian	30
